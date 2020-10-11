@@ -37,6 +37,10 @@ So  python are and  more  recenlty  julia  as  well  the  python  flavor of plot
 Plotly is  a  open  source,  it's  mightly  licensed  and  during  this presentation  we'll  see  that  it  has a  large variety  of  traces  and is  very  customizable  and  it  has  a  strong  focus  on interactivity in  the  sense  that  charts  figures  are very  interactive but  also  they  send  events  which  can  be  listened  to  by  other  libraries for  even  more  interactivity .
                       
                                                  THREE  USE  CASE  OF  PLOTLY
+                                                 (i)Interactive  exploration  of  data
+                                                 (ii)Publishing visualization  and  building interactive application
+                                                 (iii)Interactive  image annotation and processing
+                                                 
 So  in  order  to  illustrate  capability  of  plotly; i'll  focus here on  three  different  use  case  of  plotly  during  this  talk. First of  all  we  will  see  how to  explore data  by  visualizing them  which  is something you can do in  jupyter  notebook. For  example ,the i'll  switch  to a slightly  more  advanced  use case  where you  want  your  visualization  to  interact with  other  elements or to publish them as a dashboard and  finally i'll  combine the  two  first  aspects to  show tools we've been  developing recently for interactive image annotation and  processing.
    
                                                  (i) INTERACTIVE  EXPLORATION  OF  DATA
