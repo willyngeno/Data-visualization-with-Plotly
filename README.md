@@ -31,6 +31,7 @@ I  started  in  particular contributing  to  psychic image  which is  a  python 
 Plotly  to  work  on interactive  image  processing. I  talk it  at  the  end  of  presentation so  the  subject of  my  talk  is  plotly   graphic  library.
 So what  is  Plotly, maybe  most  of  you know  about  it and  i'll  try to  share a little  just so  that you  can vote for  your  prefered    visualization  tool.You  don't  have  to  say it's  plotline.It  is  just  interesting for  me  to see   which  tool  people  are  using.I  just  put  solution well, just put  solution  answers in  writing  because  this is  the  language  i know  the most  but  so  plotly is  a  web  native  visualization  library and  since it is  developed   for  visualization  in  the browser  it is  written  in  javascript but  it  also as  apis for  language  more  familiar  to  data  scientist.
 
+
 So  python are and  more  recenlty  julia  as  well  the  python  flavor of plotly also  as  a  high level expressive api which  is called plotly   express  and  which  is  particularly  suitable for  working  with  spender's   data  frame  like  seabourn  for mad  plotly  and for   python  plotting.In  fact the most downloaded visualization library  which is  interactive that  is  web  based and  very  interactive matplotlib is  more  than  loaded  but  then it's  not  as  interactive  and it's  not web  based.
 
                                                PLOTLY  AS  VISUALIZATION  TOOL
